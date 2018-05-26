@@ -1,11 +1,12 @@
 {
-  "name": "SupahBot",
+  "name": "BlueMusic",
   "description": "Discord bot for music playback via youtube, and more.",
   "repository": "https://github.com/razum90/SupahBot",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["bot", "heroku", "music-playback", "discord", "javascript", "node", "youtube"],
   "env": {
-    "MY_VAR_DISCORD": {
+    "MY_VAR_DISCORD":NDQ5NzMwMjA3ODI2MzEzMjM2.DepqOA.Ejzz10nEeA05r0ufAmiRHKOc-Jk
+    {
       "description": "Discord token used to log in",
       "required": true
     },
