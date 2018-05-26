@@ -5,8 +5,7 @@
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["bot", "heroku", "music-playback", "discord", "javascript", "node", "youtube"],
   "env": {
-    "MY_VAR_DISCORD":NDQ5NzMwMjA3ODI2MzEzMjM2.DepqOA.Ejzz10nEeA05r0ufAmiRHKOc-Jk
-    {
+    "MY_VAR_DISCORD": {
       "description": "Discord token used to log in",
       "required": true
     },
