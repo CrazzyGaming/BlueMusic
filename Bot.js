@@ -169,7 +169,7 @@ function registerService(service, affectedCommands) {
 }
 
 function init() {
-  Helper.keys('NDQ5NzMwMjA3ODI2MzEzMjM2.DepqOA.Ejzz10nEeA05r0ufAmiRHKOc-Jk', ['discord']).then(keys => {
+  Helper.keys('apikeys', ['discord']).then(keys => {
     Bot.login(keys.discord);
 
     Queue = registerService(Queue, ['!queue', '!voteskip', '!song']);
